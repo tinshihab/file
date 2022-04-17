@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #E1FFFB;
+}
+h1{
+    color: #00C108;
+    text-align: center;
+}
+img{
+    height: 350px;
+    width: 350px;
+}
